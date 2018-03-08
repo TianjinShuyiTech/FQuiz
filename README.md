@@ -1,6 +1,7 @@
-# FQuiz
+# iQuizitive
 
-FQuiz focuses on questions in Soccer, testing the users knowledge in this area.
+Do you really love football? Let iQuizitive test you.
+See how many questions you can answer.
 
 ![](https://github.com/TianjinShuyiTech/FQuiz/blob/master/fquizbg.png)
 
